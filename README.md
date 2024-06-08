@@ -18,7 +18,7 @@
 
 <br />
 Home Page
-![image](https://github.com/sangamparmar/Ecommerce-platform/assets/118618529/1efb3d42-9b85-40fa-af28-3d93ce5c094a)
+![image](https://github.com/sangamparmar/Ecommerce-platform/assets/118618529/9bb6d778-0a66-4090-80a6-7c428c46895d)
 
 Cart Section 
 ![image](https://github.com/sangamparmar/Ecommerce-platform/assets/118618529/ff615ce4-0bde-41ec-b4a3-90c5d3cfe435)
